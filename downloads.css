@@ -1,0 +1,69 @@
+header{
+    text-align: center;
+    font-family: "comic sans ms";
+    color:#28a29c;
+    font-size: 23;
+    padding: 2px;
+    opacity: 95%;
+    
+}
+body{
+    background-color:beige;
+}
+h3{
+    text-align: center;
+    font-family: "comic sans ms";
+    font-size: 20px;
+    padding: 2px;
+    margin: 2px;
+}
+table{
+    font-family: "comic sans ms";
+    margin: 2px;
+    width: 100%;
+}
+th, td {
+    border-bottom: 1px solid rgb(203, 199, 199);
+    padding: 20px;
+    text-align: center;
+  }
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  thead{
+    background-color: rgb(67, 171, 184);
+    opacity: 80%;
+  }
+  
+  footer{
+    text-align: center;
+    font-size: 18px;
+    position: fixed;
+   bottom: 0;
+   width: 100%;
+   height: 60px;  
+   padding-bottom: 20px;
+   
+    
+  }
+.link-light{
+    color: rgb(67, 171, 184);
+    
+}
+a{
+  
+  text-decoration: none;
+  color: #28a29c;
+}
+a:hover{
+  color: #be5c43;
+}
+.course{
+  padding-top: 10px;
+  border-bottom: 1px solid rgb(203, 199, 199);
+  font-size: 15px;
+  font-family: "comic sans ms";
+  padding-left: 25px;
+  padding-bottom: 10px;
+}
